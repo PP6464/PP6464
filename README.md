@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PP6464
 - 👀 I’m interested in Flutter
-- 📫 How to reach me panthhp@outlook.com
+- 📫 How to reach me panthhp1669@gmail.com
 
 <!---
 PP6464/PP6464 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
