@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PP6464
-- 👀 I’m interested in Flutter
+- 👀 I’m interested in Kotlin and Rust
 - 📫 How to reach me panthhp@outlook.com
 
 <!---
